@@ -1,0 +1,81 @@
+
+header .container-fluid{
+    color: white;
+    background-color: blue;
+    height: 100px;
+    font-family: 'Times new roman', cursive;
+    font-size: 45px;
+    padding-top: 10px;
+}
+footer .container-fluid{
+    color: white;
+    background-color: blue;
+    font-family: 'times new roman', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+body .coulm{
+    background-color: white;
+    font-family: 'Times new roman', sans-serif;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+
+body .col-md-2{
+    background-color: grey;
+    font-family: 'times new roman', sans-serif;
+    font-size: 30px;
+    color:brown;
+}
+
+body ul{
+    list-style: none;
+    color:white;
+    font-family: 'times new roman', sans-serif;
+
+}
+
+body small{
+    font-family: 'times new roman', sans-serif;
+}
+
+body li{
+    margin-top:10px;
+    margin-bottom: 10px;
+}
+
+
+body .panel-body{
+    font-family: 'times new roman', serif;
+    color:white;
+}
+
+body .pull-left{
+    font-family: 'times new roman', sans-serif;
+}
+
+body #datechronology{
+    font-family: 'times new roman', sans-serif;
+    font-size:20px;
+    margin-bottom: 5px;
+}
+
+body #datechronology a:hover{
+    background-color:pink;
+    color: inherit;
+    text-decoration: inherit;
+}
+
+body #datechronology a:link{
+
+    color: inherit;
+    text-decoration: inherit;
+}
+
+body #datechronology a{
+    color: white;
+}
